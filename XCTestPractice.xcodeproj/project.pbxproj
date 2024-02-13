@@ -14,6 +14,7 @@
 		8B436CAA2B7BA9030009C1EB /* XCTestPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B436CA92B7BA9030009C1EB /* XCTestPracticeTests.swift */; };
 		8B436CB42B7BA9030009C1EB /* XCTestPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B436CB32B7BA9030009C1EB /* XCTestPracticeUITests.swift */; };
 		8B436CB62B7BA9030009C1EB /* XCTestPracticeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B436CB52B7BA9030009C1EB /* XCTestPracticeUITestsLaunchTests.swift */; };
+		8B436CC32B7BA95D0009C1EB /* Calclater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B436CC22B7BA95D0009C1EB /* Calclater.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		8B436CAF2B7BA9030009C1EB /* XCTestPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XCTestPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B436CB32B7BA9030009C1EB /* XCTestPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCTestPracticeUITests.swift; sourceTree = "<group>"; };
 		8B436CB52B7BA9030009C1EB /* XCTestPracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCTestPracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8B436CC22B7BA95D0009C1EB /* Calclater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calclater.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				8B436C982B7BA9010009C1EB /* XCTestPracticeApp.swift */,
 				8B436C9A2B7BA9010009C1EB /* ContentView.swift */,
+				8B436CC22B7BA95D0009C1EB /* Calclater.swift */,
 				8B436C9C2B7BA9030009C1EB /* Assets.xcassets */,
 				8B436C9E2B7BA9030009C1EB /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				8B436C9B2B7BA9010009C1EB /* ContentView.swift in Sources */,
 				8B436C992B7BA9010009C1EB /* XCTestPracticeApp.swift in Sources */,
+				8B436CC32B7BA95D0009C1EB /* Calclater.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
